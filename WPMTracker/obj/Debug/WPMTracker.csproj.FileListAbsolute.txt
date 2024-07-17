@@ -1,0 +1,7 @@
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\bin\Debug\WPMTracker.exe.config
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\bin\Debug\WPMTracker.exe
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\bin\Debug\WPMTracker.pdb
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\obj\Debug\WPMTracker.csproj.AssemblyReference.cache
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\obj\Debug\WPMTracker.csproj.CoreCompileInputs.cache
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\obj\Debug\WPMTracker.exe
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTracker\obj\Debug\WPMTracker.pdb

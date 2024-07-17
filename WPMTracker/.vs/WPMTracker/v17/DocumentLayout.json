@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaneb\\OneDrive - Bellevue Club\\Desktop\\Project\\CSharp\\WPMTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0763099A-855E-414B-AB84-2A3F88DB4AF2}|WPMTracker.csproj|c:\\users\\shaneb\\onedrive - bellevue club\\desktop\\project\\csharp\\wpmtracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0763099A-855E-414B-AB84-2A3F88DB4AF2}|WPMTracker.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B151672D-005C-4E3E-9AE2-3F59C55779AE}|..\\WPMTest\\WPMTest.csproj|c:\\users\\shaneb\\onedrive - bellevue club\\desktop\\project\\csharp\\wpmtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\shaneb\\OneDrive - Bellevue Club\\Desktop\\Project\\CSharp\\WPMTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\WPMTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\shaneb\\OneDrive - Bellevue Club\\Desktop\\Project\\CSharp\\WPMTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\WPMTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:26:28.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaneb\\OneDrive - Bellevue Club\\Desktop\\Project\\CSharp\\WPMTracker\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shaneb\\OneDrive - Bellevue Club\\Desktop\\Project\\CSharp\\WPMTracker\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T19:05:20.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

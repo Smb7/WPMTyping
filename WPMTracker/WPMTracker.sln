@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPMTracker", "WPMTracker.csproj", "{0763099A-855E-414B-AB84-2A3F88DB4AF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPMTest", "..\WPMTest\WPMTest.csproj", "{B151672D-005C-4E3E-9AE2-3F59C55779AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0763099A-855E-414B-AB84-2A3F88DB4AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0763099A-855E-414B-AB84-2A3F88DB4AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0763099A-855E-414B-AB84-2A3F88DB4AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0763099A-855E-414B-AB84-2A3F88DB4AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B151672D-005C-4E3E-9AE2-3F59C55779AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B151672D-005C-4E3E-9AE2-3F59C55779AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B151672D-005C-4E3E-9AE2-3F59C55779AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B151672D-005C-4E3E-9AE2-3F59C55779AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BF02E94-8DF8-441C-8BF2-32032AA1340A}
+	EndGlobalSection
+EndGlobal
