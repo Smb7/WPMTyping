@@ -21,12 +21,9 @@ namespace WPM
                 Console.WriteLine("3. Hard");
 
                 Console.WriteLine("Please enter your choice (1, 2, or 3): ");
-                int choice;
-                if (!int.TryParse(Console.ReadLine(), out choice) || (choice != 1 && choice != 2 && choice != 3))
-                {
-                    Console.WriteLine("Unknown input, try again");
-                    continue;
-                }
+                
+                string num_input = Console.ReadLine();
+                int choice = Convert.ToInt32(num_input);
 
                 // Call HandlerChoice
                 List<string> sentences = HandlerChoice(choice);
@@ -91,10 +88,6 @@ namespace WPM
                 default:
                     throw new ArgumentException("Invalid choice");
             }
-
-            Console.WriteLine("RULES: \n " +
-                              "1. You will see a display on screen of the words you must type \n " +
-                              "2. You will type the words on screen, once completed you will press enter \n ");
 
             return sentences;
         }
