@@ -13,3 +13,6 @@ C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\obj\Debu
 C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\obj\Debug\WPMTest.csproj.Up2Date
 C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\obj\Debug\WPMTest.dll
 C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\obj\Debug\WPMTest.pdb
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\bin\Debug\WPMTracker.exe
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\bin\Debug\WPMTracker.pdb
+C:\Users\shaneb\OneDrive - Bellevue Club\Desktop\Project\CSharp\WPMTest\bin\Debug\WPMTracker.exe.config
