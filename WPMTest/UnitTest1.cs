@@ -15,13 +15,34 @@ namespace WPMTest
         public void CanChooseEasy()
         {
             // Arrange
-            List<string> expectedWords = new List<string> {"Welcome to Easy"};
+            List<string> expectedWords = new List<string> {
+                "The cat slept on the mat, and the dog lay beside it.",
+                "The sun is shining brightly today, and the sky is clear.",
+                "I ate an apple for breakfast and drank a glass of milk.",
+                "He likes to eat pizza with friends on Friday nights.",
+                "The sun set behind the mountains, painting the sky orange.",
+                "The flower bloomed in the garden, attracting many bees.",
+                "The book is on the table, next to the lamp.",
+                "We went to the park and played on the swings and slides.",
+                "She found a shiny penny on the sidewalk while walking home.",
+                "The bird sang a beautiful song from the top of the tree.",
+                "My brother and I built a sandcastle at the beach.",
+                "The cookies are baking in the oven, and they smell great.",
+                "The puppy chased its tail around in circles.",
+                "We had a picnic by the lake, enjoying the warm weather.",
+                "The car is parked in the driveway, ready for the trip.",
+                "I finished my homework before dinner and watched TV.",
+                "The cake was delicious, and everyone wanted a second piece.",
+                "The fish swam around in the aquarium, enjoying the water.",
+                "The kids played hide and seek in the backyard.",
+                "The movie we watched last night was really funny and entertaining."
+            };
 
             // Act
             List<string> choices = WPM.WPMTypeTesting.HandlerChoice(1);
 
             // Assert
-            CollectionAssert.AreEqual(expectedWords, expectedWords, "The method did not return the expected easy words.");
+            CollectionAssert.AreEqual(expectedWords, choices, "The method did not return the expected easy words.");
         }
 
         [TestMethod]
@@ -102,7 +123,7 @@ namespace WPMTest
         {
             // arrange
             string Sentence = "this is a test 1";
-            string UsrSentence = "this is a test: ";
+            string UsrSentence = "this is a test ";
 
             // Act
             double action = WPM.WPMTypeTesting.CalculateAccuracy(Sentence, UsrSentence);
